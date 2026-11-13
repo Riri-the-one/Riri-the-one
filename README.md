@@ -77,6 +77,14 @@ A native Android movie discovery app with personal favorites, movie feedback, tr
 
 [Repository & setup](https://github.com/Riri-the-one/MovieAppAndroid) · [Implementation PR](https://github.com/Riri-the-one/MovieAppAndroid/pull/1)
 
+### Disney Quiz Android
+
+**Java · Android SDK · XML · Firebase Authentication**
+
+A native Android quiz featuring five Disney-themed questions, Firebase email/password accounts, score tracking and replay flows. Includes automated scoring and structure tests, Android Lint and a debug APK build in GitHub Actions.
+
+[Repository & setup](https://github.com/Riri-the-one/DisneyQuizAndroid) · [CI and checks](https://github.com/Riri-the-one/DisneyQuizAndroid/actions)
+
 ## Software engineering interests
 
 - Backend development and full-stack business applications.
