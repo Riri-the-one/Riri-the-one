@@ -13,18 +13,19 @@ EMSI Casablanca · Final-year engineering student
 
 ---
 
-I build web applications that connect practical business workflows with clear application architecture. My projects explore e-commerce, inventory management and hotel reservations using Java/Spring Boot, PHP/Laravel and C#/ASP.NET Core, with React for full-stack interfaces.
+I build web applications that connect practical business workflows with clear application architecture. My projects explore e-commerce, inventory management and hotel reservations using Java/Spring Boot, PHP/Laravel and C#/ASP.NET Core, with React for full-stack interfaces. I also build native Android applications in Java.
 
 I am looking for a final-year internship where I can contribute to a software team, strengthen my engineering practices and learn through code reviews and real product challenges.
 
 ## Technologies & skills
 
-Technologies used across my portfolio and the implementation branches linked below:
+Technologies used in the projects linked below:
 
 | Area | Project experience |
 | :--- | :--- |
 | Backend | Java, Spring Boot, Spring Security · PHP, Laravel · C#, ASP.NET Core MVC |
 | Frontend | JavaScript, React, Inertia.js · Blade, Thymeleaf · HTML, CSS, Tailwind CSS |
+| Mobile | Java, Android SDK, XML layouts, AndroidX, Firebase Authentication and Firestore |
 | Data | SQL, MySQL, SQL Server · SQLite for isolated tests and demos · JPA, Eloquent, Entity Framework Core |
 | Application design | MVC architecture, REST APIs, authentication, role-based authorization, validation and transactional workflows |
 | Engineering tools | Git, GitHub, Docker for isolated MySQL verification, GitHub Actions |
@@ -38,33 +39,43 @@ Technologies used across my portfolio and the implementation branches linked bel
 
 An e-commerce ERP internship project bringing product and inventory management, sales orders, logistics, customer follow-up, dashboards and statistics into a role-based workspace.
 
-[Repository](https://github.com/Riri-the-one/soft7art-ecom-erp) · [Reviewed implementation & screenshots](https://github.com/Riri-the-one/soft7art-ecom-erp/tree/feat/erp-portfolio-finalization) · [PR #1](https://github.com/Riri-the-one/soft7art-ecom-erp/pull/1)
+[Repository](https://github.com/Riri-the-one/soft7art-ecom-erp) · [Implementation & screenshots](https://github.com/Riri-the-one/soft7art-ecom-erp/tree/main) · [PR #1](https://github.com/Riri-the-one/soft7art-ecom-erp/pull/1)
 
 ### 02 · GameHub
 
 **Java · Spring Boot · Spring Security · Thymeleaf · MySQL**
 
-A gaming storefront with a product catalogue, guest shopping carts, orders and inventory management. The implementation PR adds protected administrator flows, transactional checkout, versioned migrations and automated tests. Payments are simulated.
+A gaming storefront with a product catalogue, guest shopping carts, orders and inventory management. The application includes protected administrator flows, transactional checkout, versioned migrations and automated tests. Payments are simulated.
 
-[Repository](https://github.com/Riri-the-one/gamehub) · [Reviewed implementation & screenshots](https://github.com/Riri-the-one/gamehub/tree/fix/admin-security) · [PR #1](https://github.com/Riri-the-one/gamehub/pull/1)
+[Repository](https://github.com/Riri-the-one/gamehub) · [Implementation & screenshots](https://github.com/Riri-the-one/gamehub/tree/main) · [PR #1](https://github.com/Riri-the-one/gamehub/pull/1)
 
 ### 03 · Hotel Reservation
 
 **PHP · Laravel · JavaScript · React · Inertia.js**
 
-A hotel booking application with room availability search, authentication, reservations and room management. The implementation PR strengthens booking validation, ownership checks and reservation lifecycle rules, with automated tests.
+A hotel booking application with room availability search, authentication, reservations and room management. The implementation strengthens booking validation, ownership checks and reservation lifecycle rules, with automated tests.
 
-[Repository](https://github.com/Riri-the-one/hotel-reservation-api) · [Reviewed implementation & screenshots](https://github.com/Riri-the-one/hotel-reservation-api/tree/feat/hotel-portfolio-finalization) · [PR #1](https://github.com/Riri-the-one/hotel-reservation-api/pull/1)
+[Repository](https://github.com/Riri-the-one/hotel-reservation-api) · [Implementation & screenshots](https://github.com/Riri-the-one/hotel-reservation-api/tree/main) · [PR #1](https://github.com/Riri-the-one/hotel-reservation-api/pull/1)
 
 ### 04 · Lustre
 
 **C# · ASP.NET Core MVC · Entity Framework Core · ASP.NET Identity · SQL Server**
 
-A skincare e-commerce application with a catalogue, shopping cart, checkout, inventory and administration. The implementation PR upgrades the application to **.NET 10** and adds hardened workflows and automated tests. Payments are simulated.
+A skincare e-commerce application with a catalogue, shopping cart, checkout, inventory and administration. The implementation uses **.NET 10** and includes hardened workflows and automated tests. Payments are simulated.
 
-[Repository](https://github.com/Riri-the-one/lustre-projetdotnet) · [Reviewed implementation & screenshots](https://github.com/Riri-the-one/lustre-projetdotnet/tree/feat/lustre-portfolio-finalization) · [PR #1](https://github.com/Riri-the-one/lustre-projetdotnet/pull/1)
+[Repository](https://github.com/Riri-the-one/lustre-projetdotnet) · [Implementation & screenshots](https://github.com/Riri-the-one/lustre-projetdotnet/tree/main) · [PR #1](https://github.com/Riri-the-one/lustre-projetdotnet/pull/1)
 
-> The linked implementation PRs are open and awaiting final review. Their documentation, screenshots and engineering improvements describe the proposed versions; they are not yet merged into the default branches.
+> The four implementation PRs linked above have been merged into `main`.
+
+## Mobile / Android projects
+
+### Movie App Android
+
+**Java · Android SDK · Firebase · TMDB · Google Maps**
+
+A native Android movie discovery app with personal favorites, movie feedback, trailers and a French-language cinema assistant. Automated validation covers Android compilation, lint, quiz submission state and Firestore access rules. QR tickets are a demonstration; no real booking service is implemented.
+
+[Repository & setup](https://github.com/Riri-the-one/MovieAppAndroid) · [Implementation PR](https://github.com/Riri-the-one/MovieAppAndroid/pull/1)
 
 ## Software engineering interests
 
